@@ -1,0 +1,25 @@
+{
+  "name": "nodemysql",
+  "version": "1.0.0",
+  "description": "Project testing connection to DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humbertofneto/react.git"
+  },
+  "author": "Humberto Freitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/humbertofneto/react/issues"
+  },
+  "homepage": "https://github.com/humbertofneto/react#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
